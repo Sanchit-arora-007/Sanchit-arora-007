@@ -61,16 +61,15 @@
 
 ---
 
-## 📌 Featured Projects
+### 🚀 Featured Projects
 
-- 💬 AI Interview Coach
-  `Python | NLP | Machine Learning | Scikit-learn | NLP Classification | Tkinter 
+- 💬 **AI Interview Coach**  
+  `Python` • `NLP` • `Machine Learning` • `Scikit-learn` • `NLP Classification` • `Tkinter`
 
-- 🧮 DSA Problem Solving  
-  Binary Search, Aggressive Cows, and more  
+- 🧮 **DSA Problem Solving**  
+  `C` • `Data Structures & Algorithms` • `Binary Search` • `Sorting` • `Greedy Algorithms`
 
-- 🚧 More projects coming soon...  
-
+- 🚧 **More projects coming soon...**
 ---
 
 ## 🏆 Goals
