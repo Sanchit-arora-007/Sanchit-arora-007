@@ -63,8 +63,8 @@
 
 ## 📌 Featured Projects
 
-- 💬 Real-Time Chat Application  
-  Tech: Laravel, Socket.io, MySQL  
+- 💬 AI Interview Coach
+  Python | NLP | Machine Learning | Scikit-learn | NLP Classification | Tkinter 
 
 - 🧮 DSA Problem Solving  
   Binary Search, Aggressive Cows, and more  
